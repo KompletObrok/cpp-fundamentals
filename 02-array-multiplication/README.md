@@ -1,4 +1,4 @@
-# Apply All - Array Multiplication
+#Array Multiplication
 
 Dynamically allocates a result array and multiplies each element
 of array1 against every element of array2.
