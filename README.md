@@ -5,7 +5,7 @@ and data structures as foundation for CUDA GPU programming.
 
 ## Projects
 - 01-list-manager: vectors, control flow, menu interface
-- 02-apply-all: heap allocation, pointer returns, 2D row-major indexing
+- 02-array-multiplication: heap allocation, pointer returns, 2D row-major indexing
 - 03-letter-pyramid: nested loops, boundary handling, index arithmetic
 
 ## Goal
