@@ -7,6 +7,7 @@ and data structures as foundation for CUDA GPU programming.
 - 01-list-manager: vectors, control flow, menu interface
 - 02-array-multiplication: heap allocation, pointer returns, 2D row-major indexing
 - 03-letter-pyramid: nested loops, boundary handling, index arithmetic
+- 04-movie-collection: class composition, const-correctness, std::move, std::vector
 
 ## Goal
 Preparation for CUDA kernel development and AI infrastructure engineering.
