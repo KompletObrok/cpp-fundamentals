@@ -1,4 +1,4 @@
-# Section 14 Challenge - Operator Overloading
+# Operator Overloading
 
 Overloading operators on a custom `Mystring` class that wraps a raw `char*` C-style string.
 
