@@ -29,10 +29,7 @@ The challenge is implemented twice — once using **member functions** and once 
 
 ## Build
 
-```bash
-g++ -std=c++17 -o main main.cpp Mystring.cpp
-./main
-```
+
 
 ## Notes
 
