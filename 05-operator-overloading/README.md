@@ -9,7 +9,7 @@ The challenge is implemented twice — once using **member functions** and once 
 | Folder | Approach |
 |--------|----------|
 | `05-operator-overload-member` | All operators implemented as member functions |
-| `06-operator-overload-non-member` | Binary/unary operators as non-member friends, compound assignment and `++` as members |
+| `05-operator-overload-non-member` | Binary/unary operators as non-member friends, compound assignment and `++` as members |
 
 ## Overloaded Operators
 
