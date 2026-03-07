@@ -2,6 +2,8 @@
 
 Dynamic object management using smart pointers. Creates a `unique_ptr` to a vector of `shared_ptr<Test>` objects, fills it from user input, and displays the data — demonstrating automatic cleanup through RAII with zero manual `delete` calls.
 
+Learned all current smart pointers that are relevant for C++ including weak pointer.
+
 ## Concepts
 
 - `std::unique_ptr` for exclusive ownership of the vector
