@@ -10,6 +10,7 @@ and data structures as foundation for CUDA GPU programming.
 - 04-movie-collection: class composition, const-correctness, std::move, std::vector
 - 05-operator-overloading: operator<<, member vs non-member overloads, Mystring class
 - 06-inheritance: Account class hierarchy, method overriding, delegating to base class
+- 07-polymorphism: abstract classes, pure virtual functions, I_Printable interface, dynamic dispatch via base class pointers
 
 ## Goal
 Preparation for CUDA kernel development and AI infrastructure engineering.
