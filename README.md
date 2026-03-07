@@ -11,6 +11,7 @@ and data structures as foundation for CUDA GPU programming.
 - 05-operator-overloading: operator<<, member vs non-member overloads, Mystring class
 - 06-inheritance: Account class hierarchy, method overriding, delegating to base class
 - 07-polymorphism: abstract classes, pure virtual functions, I_Printable interface, dynamic dispatch via base class pointers
+- 08-smart-pointers: unique_ptr, shared_ptr, make_unique, make_shared, vector of smart pointers
 
 ## Goal
 Preparation for CUDA kernel development and AI infrastructure engineering.
