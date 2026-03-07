@@ -1,6 +1,6 @@
 # 07 - Polymorphism, Interfaces & Abstract Classes
 
-Refactored the Section 15 account hierarchy to use dynamic polymorphism. `Account` becomes an abstract base class with pure virtual `deposit`/`withdraw`, an `I_Printable` interface replaces per-class `operator<<` friends, and `Account_Util` collapses from 12 overloaded functions to 3 — all operating on `std::vector<Account *>`.
+Refactored the project 06 account hierarchy to use dynamic polymorphism. `Account` becomes an abstract base class with pure virtual `deposit`/`withdraw`, an `I_Printable` interface replaces per-class `operator<<` friends, and `Account_Util` collapses from 12 overloaded functions to 3 — all operating on `std::vector<Account *>`.
 
 ## Key Concepts
 
