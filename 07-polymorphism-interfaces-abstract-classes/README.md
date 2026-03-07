@@ -10,11 +10,7 @@ Refactored the Section 15 account hierarchy to use dynamic polymorphism. `Accoun
 - Virtual destructors
 - Eliminating code duplication through polymorphism
 
-## Building
 
-```bash
-g++ -std=c++17 -o main main.cpp Account.cpp Savings_Account.cpp Checking_Account.cpp Trust_Account.cpp Account_Util.cpp I_Printable.cpp
-```
 
 ## Class Hierarchy
 
